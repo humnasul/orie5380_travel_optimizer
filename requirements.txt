@@ -1,0 +1,8 @@
+numpy
+pandas
+geopandas
+plotly
+seaborn
+matplotlib
+gurobipy
+nbformat>=4.2.0
